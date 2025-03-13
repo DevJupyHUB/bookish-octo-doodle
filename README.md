@@ -1,5 +1,11 @@
 # bookish-octo-doodle
-Plots to PydyTuesday
+
+Plots to PydyTuesday challenge (https://github.com/posit-dev/python-tidytuesday)
+
+Data: https://github.com/rfordatascience/tidytuesday
+
+
+
 
 ![2025-03-11](https://github.com/user-attachments/assets/abbc2e55-6752-4cc3-893c-43dd754b490e)
 
