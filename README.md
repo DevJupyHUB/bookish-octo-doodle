@@ -1,11 +1,6 @@
 # bookish-octo-doodle
 
-Plots to PydyTuesday challenge (https://github.com/posit-dev/python-tidytuesday)
-
-Data: https://github.com/rfordatascience/tidytuesday
-
-
-
+My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
 
 ![2025-04-22](https://github.com/user-attachments/assets/bfc7f53c-4aca-47bb-bfca-fcc481f67ad2)
 
