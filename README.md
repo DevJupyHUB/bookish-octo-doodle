@@ -5,6 +5,10 @@ My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytu
 
 
 
+[2025-04-29](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-29.ipynb) useR!
+
+<img src="/plots/2025-04-29.png" width="75%"/>
+
 [2025-04-22](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-22.ipynb) Fatal Car Crashes on 20/4
 
 <img src="/plots/2025-04-22.png" width="75%"/>
