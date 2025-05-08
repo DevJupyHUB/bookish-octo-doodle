@@ -3,7 +3,9 @@
 My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
 
 
+[2025-05-06](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-05-06.ipynb)
 
+<img src="/plots/2025-05-06.png" width="75%"/>
 
 [2025-04-29](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-29.ipynb) useR!
 
