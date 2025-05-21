@@ -3,6 +3,10 @@
 My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
 
 
+[2025-05-20](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-05-20.ipynb) Water Quality at Sydney Beaches
+
+<img src="/plots/2025-05-20.1.png" width="75%"/> <img src="/plots/2025-05-20.2.png" width="75%"/>
+
 [2025-05-13](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-05-13.ipynb) Seismic Events at Mount Vesuvius
 
 <img src="/plots/2025-05-13.png" width="75%"/>
