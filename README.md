@@ -3,6 +3,10 @@
 My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
 
 
+[2025-06-03](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-06-03.ipynb) Project Gutenberg
+
+<img src="/plots/2025-06-03.png" width="75%"/> 
+
 [2025-05-27](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-05-27.ipynb) Dungeons and Dragons Monsters (2024)
 
 <img src="/plots/2025-05-27.png" width="75%"/> 
