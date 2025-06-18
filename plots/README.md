@@ -18,3 +18,7 @@
 | ------------- | ------------- |------------- |
 | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2025-05-27.png" width="250" height="150" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2025-06-03.png" width="250" height="150" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2025-06-10.png" width="250" height="150" />             |
 
+| 2025-06-17    | 2025-06-24    | 2025-07-01   |
+| ------------- | ------------- |------------- |
+| <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2025-06-17.png" width="250" height="150" /> |  |              |
+
