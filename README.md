@@ -3,6 +3,10 @@
 My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
 
 
+[2025-07-01](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-01.ipynb) Weekly US Gas Prices
+
+<img src="/plots/2025-07-01.png" width="75%"/> 
+
 [2025-06-24](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-06-24.ipynb) Measles cases across the world
 
 <img src="/plots/2025-06-24.png" width="75%"/> 
