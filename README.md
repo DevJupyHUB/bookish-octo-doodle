@@ -1,6 +1,8 @@
-# bookish-octo-doodle
+<img src="/pydytuesday.png" width="75%"/> 
 
-My contributions to the [PydyTuesday](https://github.com/posit-dev/python-tidytuesday) challenge. Datasets can be found on [TidyTuesday GitHub page](https://github.com/rfordatascience/tidytuesday).
+**PydyTuesday** is a TidyTuesday experience tailored for Python users, in collaboration with Posit. Each week,<br>
+TidyTuesday features a new dataset, offering participants the opportunity to explore, visualize, and share<br>
+their insights. You can check out all the datasets [here](https://github.com/rfordatascience/tidytuesday).
 
 
 [2025-07-01](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-01.ipynb) Weekly US Gas Prices
