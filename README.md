@@ -1,8 +1,8 @@
 <img src="/pydytuesday.png" width="75%"/> 
 
-**PydyTuesday** is a TidyTuesday experience tailored for Python users, in collaboration with Posit. Each week,<br>
-TidyTuesday features a new dataset, offering participants the opportunity to explore, visualize, and share<br>
-their insights. You can check out all the datasets [here](https://github.com/rfordatascience/tidytuesday).
+**PydyTuesday** is a TidyTuesday experience tailored for Python users, in collaboration with<br>
+Posit. Each week, TidyTuesday features a new dataset, offering participants the opportunity<br>
+to explore, visualize, and share their insights. You can check out all the datasets [here](https://github.com/rfordatascience/tidytuesday).
 
 <img src="/My_contributions.png" width="75%"/>
 
