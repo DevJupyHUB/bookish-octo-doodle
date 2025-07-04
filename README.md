@@ -4,6 +4,7 @@
 TidyTuesday features a new dataset, offering participants the opportunity to explore, visualize, and share<br>
 their insights. You can check out all the datasets [here](https://github.com/rfordatascience/tidytuesday).
 
+<img src="/My_contributions.png" width="75%"/>
 
 [2025-07-01](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-01.ipynb) Weekly US Gas Prices
 
