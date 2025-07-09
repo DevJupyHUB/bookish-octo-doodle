@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-07-08](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-08.ipynb) The xkcd Color Survey Results
+
+<img src="/plots/2025-07-08.png" width="75%"/> 
+
 [2025-07-01](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-01.ipynb) Weekly US Gas Prices
 
 <img src="/plots/2025-07-01.png" width="75%"/> 
