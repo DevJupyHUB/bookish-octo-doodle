@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-07-15](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-15.ipynb) British Library Funding
+
+<img src="/plots/2025-07-15.png" width="75%"/> 
+
 [2025-07-08](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-08.ipynb) The xkcd Color Survey Results
 
 <img src="/plots/2025-07-08.png" width="75%"/> 
