@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-07-29](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-29.ipynb) What have we been watching on Netflix?
+
+<img src="/plots/2025-07-29.png" width="75%"/> 
+
 [2025-07-22](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-07-22.ipynb) MTA Permanent Art Catalog
 
 <img src="/plots/2025-07-22.png" width="75%"/> 
