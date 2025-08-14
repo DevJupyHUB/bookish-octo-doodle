@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-08-12](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-08-12.ipynb) Extreme Weather Attribution Studies
+
+<img src="/plots/2025-08-12.png" width="75%"/>
+
 [2025-08-05](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-08-05.ipynb) Income Inequality Before and After Taxes
 
 <img src="/plots/2025-08-05.png" width="75%"/> 
