@@ -6,6 +6,14 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-09-02](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-02.ipynb) Australian Frogs
+
+<img src="/plots/2025-09-02.png" width="75%"/>
+
+[2025-08-26](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-08-26.ipynb) Billboard Hot 100 Number Ones
+
+<img src="/plots/2025-08-26.png" width="75%"/>
+
 [2025-08-19](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-08-19.ipynb) Scottish Munros
 
 <img src="/plots/2025-08-19.png" width="75%"/>
