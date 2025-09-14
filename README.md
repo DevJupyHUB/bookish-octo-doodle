@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-09-02](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-09.ipynb) Henley Passport Index Data
+
+<img src="/plots/2025-09-09.png" width="75%"/>
+
 [2025-09-02](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-02.ipynb) Australian Frogs
 
 <img src="/plots/2025-09-02.png" width="75%"/>
