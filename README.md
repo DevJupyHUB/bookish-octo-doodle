@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-09-23](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-23.ipynb) FIDE Chess Player Ratings
+
+<img src="/plots/2025-09-23.PNG" width="75%"/>
+
 [2025-09-16](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-16.ipynb) Allrecipes
 
 <img src="/plots/2025-09-16.png" width="75%"/>
