@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-10-07](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-10-07.ipynb) EuroLeague Basketball
+
+<img src="/plots/2025-10-07.png" width="75%"/>
+
 [2025-09-30](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-09-30.ipynb) Crane Observations
 
 <img src="/plots/2025-09-30.png" width="75%"/>
