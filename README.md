@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-10-16](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-10-16.ipynb) World Food Day
+
+<img src="/plots/2025-10-16.png" width="75%"/>
+
 [2025-10-07](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-10-07.ipynb) EuroLeague Basketball
 
 <img src="/plots/2025-10-07.png" width="75%"/>
