@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-10-28](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-10-28.ipynb) Selected British Literary Prizes 
+
+<img src="/plots/2025-10-28.png" width="75%"/>
+
 [2025-10-21](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-10-21.ipynb) Historic UK Meteorological & Climate Data
 
 <img src="/plots/2025-10-21.png" width="75%"/>
