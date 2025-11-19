@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-11-18](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-11-18.ipynb) The Complete Sherlock Holmes 
+
+<img src="/plots/2025-11-18.png" width="75%"/>
+
 [2025-11-11](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-11-11.ipynb) WHO TB Burden Data 
 
 <img src="/plots/2025-11-11.PNG" width="75%"/>
