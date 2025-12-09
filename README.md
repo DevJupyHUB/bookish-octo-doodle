@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-12-09](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-12-09.ipynb) Cars in Qatar 
+
+<img src="/plots/2025-12-09.png" width="75%"/>
+
 [2025-12-02](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-12-02.ipynb) Sechselaeuten 
 
 <img src="/plots/2025-12-02.png" width="75%"/>
