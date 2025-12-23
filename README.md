@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2025-12-23](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-12-23.ipynb) The Languages of the World
+
+<img src="/plots/2025-12-23.png" width="75%"/>
+
 [2025-12-16](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-12-16.ipynb) Roundabouts across the world 
 
 <img src="/plots/2025-12-16.png" width="75%"/>
