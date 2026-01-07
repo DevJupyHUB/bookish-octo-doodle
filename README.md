@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2026-01-06](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-01-06.ipynb) Bring your own data
+
+<img src="/plots/2026-01-06.png" width="75%"/>
+
 [2025-12-30](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-12-30.ipynb) Christmas Novels
 
 <img src="/plots/2025-12-30.png" width="75%"/>
