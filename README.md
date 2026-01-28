@@ -6,6 +6,10 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2026-01-27](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-01-27.ipynb) Brazilian Companies
+
+<img src="/plots/2026-01-27.png" width="75%"/>
+
 [2026-01-20](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-01-20.ipynb) APOD
 
 <img src="/plots/2026-01-20.png" width="75%"/>
