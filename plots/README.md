@@ -46,4 +46,8 @@
 | ------------- | ------------ |------------- |------------- |
 | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-01-06.png" width="250" height="250" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-01-13.png" width="250" height="250" /> |<img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-01-20.png" width="250" height="200" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-01-27.png" width="250" height="250" /> |
 
+| 2026-02-03    | 2026-02-10   | 2026-02-17   | 2026-02-24  |
+| ------------- | ------------ |------------- |------------- |
+| <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-02-03.png" width="250" height="250" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-02-10.png" width="250" height="250" /> |<img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-02-17.png" width="250" height="200" /> | <img src="https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/plots/2026-02-24.png" width="250" height="250" /> |
+
 
