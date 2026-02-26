@@ -6,6 +6,9 @@ to explore, visualize, and share their insights. You can check out all the datas
 
 <img src="/My_contributions.png" width="75%"/>
 
+[2026-02-24](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-02-24.ipynb) Science Foundation Ireland Grants Commitments
+<img src="/plots/2026-02-24.png" width="75%"/>
+
 [2026-02-17](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-02-17.ipynb) Agricultural Production Statistics in New Zealand
 
 <img src="/plots/2026-02-17.png" width="75%"/>
