@@ -1,10 +1,11 @@
-<img src="/pydytuesday.png" width="75%"/> 
-
 **PydyTuesday** is a TidyTuesday experience tailored for Python users, in collaboration with<br>
 Posit. Each week, TidyTuesday features a new dataset, offering participants the opportunity<br>
 to explore, visualize, and share their insights. You can check out all the datasets [here](https://github.com/rfordatascience/tidytuesday).
 
-<img src="/My_contributions.png" width="75%"/>
+<h1 style="font-weight:normal">
+  &nbsp;My PydyTuesday Contributions&nbsp;
+</h1>
+
 
 [2026-02-24](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2026-02-24.ipynb) Science Foundation Ireland Grants Commitments
 <img src="/plots/2026-02-24.png" width="75%"/>
